@@ -1,0 +1,2 @@
+# ESP32-ETH01_MB_Server
+Simple Modbus-TCP Server with ESP32-ETH01
